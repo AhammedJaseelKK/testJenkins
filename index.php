@@ -1,1 +1,2 @@
-<?php phpinfo();
+<?php
+echo "Aynu text changed"; 
