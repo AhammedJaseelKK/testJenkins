@@ -1,2 +1,2 @@
 <?php
-echo "Aynu text changed"; 
+echo "LAMP tested successfully"; 
