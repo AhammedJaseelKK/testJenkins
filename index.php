@@ -1,2 +1,2 @@
 <?php
-echo "LAMP tested successfully.Thanks"; 
+echo "LAMP installed successfully.Thanks"; 
