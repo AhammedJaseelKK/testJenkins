@@ -1,2 +1,2 @@
 <?php
-echo "LAMP installed successfully"; 
+echo "Pipeline completed successfully"; 
